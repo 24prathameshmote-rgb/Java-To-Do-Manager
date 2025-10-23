@@ -24,20 +24,6 @@ I used object-oriented programming to keep things simple and organized.
 
 --- 
 
-## Run from Command Line 
-If you want to run it using the command line:
-1. Go to the folder where all the `.java` files are saved.
-2. Compile the files:
-   ```bash
-   javac *.java
-   ```
-3. Then run the program:
-   ```bash
-   java Main
-   ```
-
----
-
 ## Run the program using JAR
 1. Install Java 
 
