@@ -1,6 +1,6 @@
 # Java To-Do Manager
 
-This is a small To-Do Manager I made in Java.  
+This is a To-Do Manager I made in Java.  
 It runs in the console and lets you add, remove, mark, and sort your tasks by priority.  
 I used object-oriented programming to keep things simple and organized.
 
